@@ -30,6 +30,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 - NOTE: The recording (a .mov file) has been added to the repo itself, instead of a link to an animated GIF, as advised through the Slack help channel.
+The file is named "Prework Screen Recording.mov".
 
 ## Notes
 
